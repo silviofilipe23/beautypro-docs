@@ -6,8 +6,6 @@ Documentação do Projeto Extensionista II
 
 Silvio Filipe Dionizio Junior
 
-Kevenny Cristian Andrade
-
 ## PROJETO E DESENVOLVIMENTO DE APLICAÇÃO PARA GESTÃO DE CENTRO ESTÉTICO
 
 Um sistema de gestão de uma clínica estética deve fornecer uma plataforma centralizada e eficiente para gerenciar todas as operações relacionadas à empresa. O sistema deve ser capaz de gerenciar clientes, produtos, serviços, agendamentos e usuários, a fim de garantir um atendimento de qualidade aos clientes, aumentar a produtividade e reduzir erros operacionais.
