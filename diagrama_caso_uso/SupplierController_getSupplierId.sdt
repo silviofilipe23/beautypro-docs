@@ -1,0 +1,12 @@
+(
+{"_classDescription":{"_className":"br.com.beautypro.controllers.SupplierController","_attributes":["public"]},"_methodName":"getSupplierId","_attributes":["public"],"_argNames":["id"],"_argTypes":["java.lang.Long"],"_returnType":"org.springframework.http.ResponseEntity\u003cbr.com.beautypro.models.Supplier\u003e","offset":1624}
+(
+{"_classDescription":{"_className":"br.com.beautypro.services.SupplierService","_attributes":["public"]},"_methodName":"getSupplierById","_attributes":["public"],"_argNames":["id"],"_argTypes":["java.lang.Long"],"_returnType":"java.util.Optional\u003cbr.com.beautypro.models.Supplier\u003e","offset":1730}
+)
+(
+{"_enclosedMethodName":"getSupplierId","_enclosedMethodArgTypes":["java.lang.Long"],"_classDescription":{"_className":"br.com.beautypro.controllers.SupplierController","_attributes":["public"]},"_methodName":"() -\u003e","_attributes":[],"_argNames":["value"],"_argTypes":["br.com.beautypro.models.Supplier"],"_returnType":"java.util.function.Function\u003cbr.com.beautypro.models.Supplier,org.springframework.http.ResponseEntity\u003cbr.com.beautypro.models.Supplier\u003e\u003e","offset":1779}
+)
+(
+{"_enclosedMethodName":"getSupplierId","_enclosedMethodArgTypes":["java.lang.Long"],"_classDescription":{"_className":"br.com.beautypro.controllers.SupplierController","_attributes":["public"]},"_methodName":"() -\u003e","_attributes":[],"_argNames":[],"_argTypes":[],"_returnType":"java.util.function.Supplier\u003corg.springframework.http.ResponseEntity\u003cbr.com.beautypro.models.Supplier\u003e\u003e","offset":1842}
+)
+)
