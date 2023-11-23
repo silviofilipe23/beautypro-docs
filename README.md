@@ -2,7 +2,7 @@
 Documentação do Projeto Extensionista I, II e III
 
 
-## Aluno
+## Acadêmico
 
 Silvio Filipe Dionizio Junior
 
